@@ -8,6 +8,11 @@ public class Main extends JavaPlugin{
 		
 		//this is the onEnable method.
 	}
+	
+	public void onDisable() {
+		
+		//this is the onDisable method
+	}
 
 
 
