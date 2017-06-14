@@ -13,6 +13,11 @@ public class Main extends JavaPlugin{
 		
 		//this is the onDisable method
 	}
+	
+	public void myMethod() {
+		
+		
+	}
 
 
 
