@@ -6,6 +6,8 @@ public class Main extends JavaPlugin{
 	
 	public void onEnable(){
 		
+		console.log("Hello");
+		
 		//this is the onEnable method.
 	}
 	
