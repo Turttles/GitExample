@@ -15,7 +15,7 @@ public class Main extends JavaPlugin{
 	}
 	
 	public void myMethod() {
-		
+		//this is mymethod method
 		
 	}
 
